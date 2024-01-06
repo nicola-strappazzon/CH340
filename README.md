@@ -30,3 +30,9 @@ Use los siguientes componentes para construir el circuito mínimo:
 - [Linux](https://www.wch-ic.com/downloads/CH341SER_LINUX_ZIP.html)
 - [MacOS](https://www.wch-ic.com/downloads/CH341SER_MAC_ZIP.html)
 - [Windows](https://www.wch-ic.com/downloads/CH341SER_ZIP.html)
+
+## Proyectos relacionados
+
+- [CH334 - HUB USB 2.0](https://github.com/nstrappazzonc/CH334)
+- [CH552 - 8-bits MCU - 8051](https://github.com/nstrappazzonc/CH552)
+- [CH9141 - Bluetooth Serial Transparent](https://github.com/nstrappazzonc/CH9141)
