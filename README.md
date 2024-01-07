@@ -10,7 +10,7 @@ Este es un simple CI para construir un USB 2.0 a Serial de muy bajo coste, dise�
 
 En la imagen mostramos el circuito básico y la conexión con un ATMega328P, en el [siguiente enlace](https://github.com/nstrappazzonc/atmega32x/tree/main/atmega328p/examples/cdc) tenemos varios ejemplos de cómo integrar ambos circuitos integrados.
 
-Puedes conseguir los IC en la tienda oficial de [AliExpress](https://wchofficialstore.es.aliexpress.com/store/1100367542) o en [JLCMC](https://jlcmc.com).
+Puedes conseguir los IC en la tienda oficial de [AliExpress](https://wchofficialstore.es.aliexpress.com/store/1100367542) o en [LCSC](https://www.lcsc.com).
 
 ## Componentes
 
