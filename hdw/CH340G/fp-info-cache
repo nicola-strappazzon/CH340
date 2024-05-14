@@ -1,4 +1,4 @@
-21938982548816200
+21942409297105324
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -61019,9 +61019,23 @@ L1206
 2
 2
 Library
+PinHeader_1x07_P2.54mm
+Through hole straight pin header, 1x07, 2.54mm pitch, single row
+Through hole pin header THT 1x07 2.54mm single row
+0
+7
+7
+Library
 R1206
 
 
+0
+2
+2
+Library
+SMA_DO_214AC
+Diode SMA (DO-214AC)
+Diode SMA (DO-214AC)
 0
 2
 2
