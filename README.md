@@ -6,9 +6,9 @@ Este es un simple CI para construir un USB 2.0 a Serial de muy bajo coste, dise�
 - Usa el protocolo UART para comunicarse con el MCU.
 - Soporta 5v y 3.3v.
 
-![](https://github.com/nstrappazzonc/CH340/blob/main/img/minimal_protoboard.jpg?raw=true)
+![](https://github.com/nicola-strappazzon/CH340/blob/main/img/minimal_protoboard.jpg?raw=true)
 
-En la imagen mostramos el circuito básico y la conexión con un ATMega328P, en el [siguiente enlace](https://github.com/nstrappazzonc/atmega32x/tree/main/atmega328p/examples/cdc) tenemos varios ejemplos de cómo integrar ambos circuitos integrados.
+En la imagen mostramos el circuito básico y la conexión con un ATMega328P, en el [siguiente enlace](https://github.com/nicola-strappazzon/atmega32x/tree/main/atmega328p/examples/cdc) tenemos varios ejemplos de cómo integrar ambos circuitos integrados.
 
 Puedes conseguir los IC en la tienda oficial de [AliExpress](https://wchofficialstore.es.aliexpress.com/store/1100367542) o en [LCSC](https://www.lcsc.com).
 
@@ -23,7 +23,7 @@ Use los siguientes componentes para construir el circuito mínimo:
 
 ## Esquema minimo del circuito
 
-![](https://github.com/nstrappazzonc/CH340/blob/main/img/minimal_schematic.jpg?raw=true)
+![](https://github.com/nicola-strappazzon/CH340/blob/main/img/minimal_schematic.jpg?raw=true)
 
 ## Driver
 
@@ -33,6 +33,6 @@ Use los siguientes componentes para construir el circuito mínimo:
 
 ## Proyectos relacionados
 
-- [CH334 - HUB USB 2.0](https://github.com/nstrappazzonc/CH334)
-- [CH552 - 8-bits MCU - 8051](https://github.com/nstrappazzonc/CH552)
-- [CH9141 - Bluetooth Serial Transparent](https://github.com/nstrappazzonc/CH9141)
+- [CH334 - HUB USB 2.0](https://github.com/nicola-strappazzon/CH334)
+- [CH552 - 8-bits MCU - 8051](https://github.com/nicola-strappazzon/CH552)
+- [CH9141 - Bluetooth Serial Transparent](https://github.com/nicola-strappazzon/CH9141)
