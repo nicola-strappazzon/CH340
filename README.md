@@ -1,6 +1,6 @@
 # CH340
 
-Este es un simple CI para construir un USB 2.0 a Serial de muy bajo coste, diseñado y fabricado en china por [Jiangsu Heng Qin Ltd. (WCH)](http://www.wch-ic.com). Para usar el CI conectado a un ordenador/computadora, necesitas tener instalado el driver. De momento nos vamos a centrar en el CH340G que tiene unas prestaciones muy versátiles, entre ellas destacan las siguientes:
+Este es un simple CI para construir un USB 2.0 a Serial de muy bajo coste, diseñado y fabricado en china por [Jiangsu Heng Qin Ltd. (WCH)](http://www.wch-ic.com). Para usar el CI conectado a un ordenador/computadora, necesitas tener instalado el driver. De momento nos vamos a centrar en el CH340C que tiene unas prestaciones muy versátiles, entre ellas destacan las siguientes:
 
 - USB 2.0 a Serial, compatible con RS232, RS485, RS422.
 - Usa el protocolo UART para comunicarse con el MCU.
@@ -16,7 +16,7 @@ Puedes conseguir los IC en la tienda oficial de [AliExpress](https://wchofficial
 
 Use los siguientes componentes para construir el circuito mínimo:
 
-- Un IC CH340G.
+- Un IC CH340C.
 - Condensador de 0.1uF (Código: 104, Cantidad: 2).
 - Condensador de 10nF.
 - Condensador de 100nF.
