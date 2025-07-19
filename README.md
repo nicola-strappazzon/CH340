@@ -26,7 +26,7 @@ Use los siguientes componentes para construir el circuito mínimo:
 
 ## Esquema minimo del circuito
 
-![](https://github.com/nicola-strappazzon/CH340/blob/main/img/minimal_schematic.jpg?raw=true)
+![](https://github.com/nicola-strappazzon/CH340/blob/main/img/minimal_schematic.png?raw=true)
 
 ## Driver
 
